@@ -1,11 +1,14 @@
 import "./App.css";
+import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
+import RemoveBG from "./components/RemoveBG";
 
 function App() {
   return (
     <>
-      {/* <h1>Hello</h1> */}
       <Navbar />
+      <RemoveBG />
+      <Footer />
     </>
   );
 }
