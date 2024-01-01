@@ -24,7 +24,7 @@ A simple React.js application to remove backgrounds from images using the Remove
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/background-remover.git
+   git clone https://github.com/Roshnnnnn/bgRemover.git
    ```
 
 2. **Navigate to the Project Directory:**
@@ -59,7 +59,7 @@ A simple React.js application to remove backgrounds from images using the Remove
 
 2. **Open Your Browser:**
 
-   Visit [http://localhost:3000](http://localhost:3000) to use the application.
+   Visit [bgremover](https://bgremoverwebapp.netlify.app/) to use the application.
 
 3. **Remove Background:**
 
