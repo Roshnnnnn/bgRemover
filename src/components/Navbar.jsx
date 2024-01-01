@@ -2,7 +2,7 @@ export default function Navbar() {
   return (
     <div>
       <div className="flex justify-center py-5">
-        <div className="">
+        <div className="max-w-2xl text-center">
           <div className="flex justify-center mb-5">
             <img
               className="w-16"
@@ -11,12 +11,12 @@ export default function Navbar() {
             />
           </div>
 
-          <h1 className="text-white text-3xl lg:text-6xl font-medium text-center mb-3">
+          <h1 className="text-white text-3xl lg:text-6xl font-medium mb-3">
             Background Removal Tool
           </h1>
 
-          <p className="text-white text-2xl font-light text-center mb-3">
-            Fast, simple and great performance.
+          <p className="text-white text-lg lg:text-2xl font-light mb-3">
+            Fast, simple, and great performance.
           </p>
         </div>
       </div>
